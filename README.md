@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="center" src="(https://user-images.githubusercontent.com/88797854/147297574-1b3b1ed2-3095-4357-8271-a75c9c3b55f7.jpg)"/>
+![](https://komarev.com/ghpvc/?username=your-github-username&label=PROFILE+VIEWS)
+
