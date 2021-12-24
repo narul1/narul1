@@ -16,4 +16,6 @@ Here are some ideas to get you started:
 -->
 
 ![](https://komarev.com/ghpvc/?username=your-github-narul1&label=PROFILE+VIEWS)
+![Github Activity Graph](<url from step 6>/graph?username=<narul1>)
+
 
